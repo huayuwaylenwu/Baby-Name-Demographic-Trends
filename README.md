@@ -21,11 +21,7 @@ This interactive Tableau dashboard explores over a century of U.S. baby name dat
 - Communicated findings to non-technical audiences through clear visual storytelling
 
 ## Live Dashboard Link
-👉 [View the Dashboard on Tableau Public]((https://public.tableau.com/app/profile/huayu.wu1407/viz/BabyNameDemographicTrends/Mock-UpDashboard))
+👉 [View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/huayu.wu1407/viz/BabyNameDemographicTrends/Mock-UpDashboard)
 
 
 
-## Notes
-This dashboard was developed as part of a university-level business analytics course to demonstrate data storytelling and dashboard design for non-technical stakeholders. While the scenario is hypothetical, it showcases practical Tableau and data communication skills.
-
----
